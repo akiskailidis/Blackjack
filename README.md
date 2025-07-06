@@ -27,3 +27,31 @@ This project is a full implementation of the Blackjack (21) card game in Java, b
 
 ```bash
 cd path/to/BlackjackProject
+```
+### 2. Compile all Java files:
+
+```bash
+javac *.java
+```
+
+### 3. Run the game:
+```bash
+java Blackjack
+```
+
+### Example:
+```bash
+Give the number of players: 2
+Give customer name and available money for player 1: Alice 100
+Give customer name and available money for player 2: Bob 200
+```
+
+###Notes
+
+If all players lose their money, the game ends.
+The deck is automatically reshuffled when 25% or fewer cards remain.
+You can test individual classes using their main methods.
+
+
+
+
