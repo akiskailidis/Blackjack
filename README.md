@@ -49,7 +49,9 @@ Give customer name and available money for player 2: Bob 200
 ###Notes
 
 If all players lose their money, the game ends.
+
 The deck is automatically reshuffled when 25% or fewer cards remain.
+
 You can test individual classes using their main methods.
 
 
